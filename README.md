@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://www.samuelonyema.com">Website</a> ·
   <a href="https://www.npmjs.com/~sconyema">npm</a> ·
-  <a href="https://x.com/">X</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://x.com/letsgobaba">X</a> ·
+  <a href="https://www.linkedin.com/in/samuelconyema/">LinkedIn</a>
 </p>
 
 ---
