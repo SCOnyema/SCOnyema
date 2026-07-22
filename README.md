@@ -17,7 +17,7 @@
 
 Shipping SaaS products end to end, plus the boring infrastructure underneath them: auth, billing, multi-tenancy, real-time. One stack across everything, so I can move fast without a team.
 
-🛠️ **Orivo Studio** — I take on consulting work for startups and SMEs. Backend architecture, full-stack builds, payments integrations.
+**Orivo Studio** — I take on consulting work for startups and SMEs. Backend architecture, full-stack builds, payments integrations.
 
 ### Open source
 
@@ -44,13 +44,6 @@ Shipping SaaS products end to end, plus the boring infrastructure underneath the
 </p>
 
 Turborepo monorepo (pnpm) · NestJS + Prisma + Postgres (Neon) + Redis (Upstash) + Socket.io · Next.js 14 + Tailwind + shadcn/ui · Paystack · Railway + Vercel
-
-### Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SCOnyema&show_icons=true&hide_border=true&theme=transparent&hide=issues" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCOnyema&layout=compact&hide_border=true&theme=transparent" />
-</p>
 
 ---
 
