@@ -26,5 +26,5 @@ Shipping SaaS products end to end, plus the boring infrastructure underneath the
 ---
 
 <p align="center">
-  <i>Open to consulting work — <a href="https://www.samuelonyema.com">samuelonyema.com</a></i>
+  <i> <a href="https://www.sconyema.com">sconyema.com</a></i>
 </p>
