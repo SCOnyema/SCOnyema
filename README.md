@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Onyema</h1>
 
 <p align="center">
-  Software engineer. I build stuff and ship SaaS products end to end — solo.
+  Software engineer. I build stuff and ship.
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@
 ### What I'm doing
 
 Shipping SaaS products end to end, plus the boring infrastructure underneath them: auth, billing, multi-tenancy, real-time. One stack across everything, so I can move fast without a team.
-
-**Orivo Studio** — I take on consulting work for startups and SMEs. Backend architecture, full-stack builds, payments integrations.
 
 ### Stack I actually use
 
